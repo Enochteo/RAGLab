@@ -1,4 +1,4 @@
-## RAG Lab
+## RAG Lab.
 ```
 api.
 ├── __pycache__
